@@ -1,0 +1,64 @@
+{
+  "local-codelang": "c++",
+  "local-dialogposition": {
+    "dialog-emojis": {
+      "height": 461,
+      "left": 90,
+      "top": 211,
+      "width": 360
+    },
+    "dialog-setting": {
+      "height": 831,
+      "left": 264,
+      "top": 46,
+      "width": 1281
+    }
+  },
+  "local-fileposition": {
+    "20200923234011-ieuun1p": {
+      "endId": "20230428162634-1qlp7r8",
+      "rootId": "20200923234011-ieuun1p",
+      "scrollTop": 0,
+      "startId": "20210428222013-0afj8vn"
+    },
+    "20240309013552-lc1fl80": {
+      "endId": "20240309014038-o9j1unm",
+      "focusEnd": 0,
+      "focusId": "20240309014038-o9j1unm",
+      "focusStart": 0,
+      "rootId": "20240309013552-lc1fl80",
+      "scrollTop": 557,
+      "startId": "20240309013559-dwkxdq0"
+    },
+    "20240309015646-6czdgx8": {
+      "endId": "20240309015708-5jiho2x",
+      "focusEnd": 46,
+      "focusId": "20240309015737-pwtjumf",
+      "focusStart": 46,
+      "rootId": "20240309015646-6czdgx8",
+      "scrollTop": 236,
+      "startId": "20240309015654-q3ehhcc"
+    },
+    "20240309022227-q59shjr": {
+      "endId": "20240309022502-vx67xw3",
+      "focusEnd": 4,
+      "focusId": "20240309022502-vx67xw3",
+      "focusStart": 4,
+      "rootId": "20240309022227-q59shjr",
+      "scrollTop": 221,
+      "startId": "20240309022238-1ot85d8"
+    }
+  },
+  "local-searchkeys": {
+    "col": "",
+    "colTab": "",
+    "keys": [
+      "#​以上代码#"
+    ],
+    "layout": 0,
+    "layoutTab": 0,
+    "replaceKeys": [],
+    "row": "",
+    "rowTab": ""
+  }
+}

@@ -1,0 +1,92 @@
+[
+	{
+		"name": "graph-enhance",
+		"displayName": "关系图增强",
+		"enabled": true,
+		"incompatible": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "SiYuan-Attribute-Panel",
+		"displayName": "文档属性面板",
+		"enabled": true,
+		"incompatible": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "kmind-plugin",
+		"displayName": "Kmind思维导图插件",
+		"enabled": true,
+		"incompatible": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "monaco-editor",
+		"displayName": "集成编辑环境",
+		"enabled": true,
+		"incompatible": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "siyuan-plugin-card-link",
+		"displayName": "卡片链接",
+		"enabled": true,
+		"incompatible": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "siyuan-plugin-devtool",
+		"displayName": "开发者工具",
+		"enabled": true,
+		"incompatible": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "siyuan-plugin-sidebar-memo",
+		"displayName": "侧边备注",
+		"enabled": true,
+		"incompatible": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "siyuan-plugin-power-mode",
+		"displayName": "Power Mode",
+		"enabled": true,
+		"incompatible": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "sy-transfer-refs",
+		"displayName": "转移引用",
+		"enabled": true,
+		"incompatible": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "siyuan-plugin-code-block",
+		"displayName": "代码块美化",
+		"enabled": true,
+		"incompatible": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	}
+]

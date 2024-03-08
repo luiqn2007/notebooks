@@ -1,0 +1,15 @@
+# .gitignore
+# 帮助文档的笔记本
+workspace/data/20210808180117-6v0mkxr
+# 图片、pdf等。
+workspace/data/assets
+# 其他的目录、文件。
+workspace/data/.siyuan
+workspace/data/storage/recent-doc.json
+workspace/conf/windowState.json
+workspace/backup
+workspace/history
+workspace/sync
+workspace/temp
+workspace/.lock
+
