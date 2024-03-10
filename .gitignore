@@ -12,4 +12,5 @@ workspace/history
 workspace/sync
 workspace/temp
 workspace/.lock
+log
 
