@@ -1,10 +1,16 @@
 {
   "local-codelang": "c++",
   "local-dialogposition": {
+    "dialog-attr": {
+      "height": 608,
+      "left": 336,
+      "top": 76,
+      "width": 673
+    },
     "dialog-emojis": {
-      "height": 461,
-      "left": 90,
-      "top": 211,
+      "height": 462,
+      "left": 126,
+      "top": 448,
       "width": 360
     },
     "dialog-setting": {
@@ -50,26 +56,29 @@
     },
     "20240309015646-6czdgx8": {
       "endId": "20240309015708-5jiho2x",
+      "focusEnd": 0,
+      "focusId": "20240309015654-hly6dod",
+      "focusStart": 0,
       "rootId": "20240309015646-6czdgx8",
       "scrollTop": 0,
       "startId": "20240309015654-q3ehhcc"
     },
     "20240309020502-hauelfr": {
-      "endId": "20240309022443-1t3cjwi",
-      "focusEnd": 0,
-      "focusId": "20240309022443-1t3cjwi",
-      "focusStart": 0,
+      "endId": "20240310011232-8ovrc5n",
+      "focusEnd": 8,
+      "focusId": "20240309022839-ve8qbbi",
+      "focusStart": 8,
       "rootId": "20240309020502-hauelfr",
       "scrollTop": 0,
       "startId": "20240309022315-sg1z84i"
     },
     "20240309022227-q59shjr": {
-      "endId": "20240309022502-vx67xw3",
-      "focusEnd": 4,
-      "focusId": "20240309022502-vx67xw3",
-      "focusStart": 4,
+      "endId": "20240310011059-67svwx7",
+      "focusEnd": 0,
+      "focusId": "20240310011059-67svwx7",
+      "focusStart": 0,
       "rootId": "20240309022227-q59shjr",
-      "scrollTop": 221,
+      "scrollTop": 0,
       "startId": "20240309022238-1ot85d8"
     },
     "20240309022747-fz96fgd": {
@@ -82,22 +91,22 @@
       "startId": "20240309022747-urjec70"
     },
     "20240309023008-1temlmj": {
-      "endId": "20240309023008-5ga1utr",
+      "endId": "20240310012311-nq3o0xq",
       "focusEnd": 0,
-      "focusId": "20240309023012-gr6xcaz",
+      "focusId": "20240310012311-nq3o0xq",
       "focusStart": 0,
       "rootId": "20240309023008-1temlmj",
-      "scrollTop": 0,
+      "scrollTop": 413,
       "startId": "20240309023012-gr6xcaz"
     },
     "20240309023034-yq5ekrb": {
-      "endId": "20240309023034-6wzo2n9",
+      "endId": "20240310011437-mwas10d",
       "focusEnd": 0,
-      "focusId": "20240309023036-ps6sjau",
+      "focusId": "20240310011437-mwas10d",
       "focusStart": 0,
       "rootId": "20240309023034-yq5ekrb",
       "scrollTop": 0,
-      "startId": "20240309023036-ps6sjau"
+      "startId": "20240309023034-6wzo2n9"
     },
     "20240309023136-v95wg3z": {
       "endId": "20240309023549-qz3ib78",
@@ -109,19 +118,482 @@
       "startId": "20240309023156-focnpfh"
     },
     "20240309023141-mearx8a": {
-      "endId": "20240309025347-c219ant",
-      "focusEnd": 0,
-      "focusId": "20240309025347-c219ant",
-      "focusStart": 0,
+      "endId": "20240310011916-zf23onf",
+      "focusEnd": 22,
+      "focusId": "20240310011832-ryrk8np",
+      "focusStart": 22,
       "rootId": "20240309023141-mearx8a",
-      "scrollTop": 57,
+      "scrollTop": 0,
       "startId": "20240309023624-x2y28hl"
+    },
+    "20240309143638-hcopdn6": {
+      "endId": "20240309143638-4x6nu39",
+      "focusEnd": 0,
+      "focusId": "20240309143644-frcmfgd",
+      "focusStart": 0,
+      "rootId": "20240309143638-hcopdn6",
+      "scrollTop": 0,
+      "startId": "20240309143644-frcmfgd"
+    },
+    "20240309143705-vmqtwsw": {
+      "endId": "20240309144425-nydzh4e",
+      "focusEnd": 0,
+      "focusId": "20240309170505-esmlt4p",
+      "focusStart": 0,
+      "rootId": "20240309143705-vmqtwsw",
+      "scrollTop": 0,
+      "startId": "20240309143705-tbe6qzj"
+    },
+    "20240309172005-r26tnl6": {
+      "endId": "20240309172346-8ad6onc",
+      "focusEnd": 0,
+      "focusId": "20240309172346-8ad6onc",
+      "focusStart": 0,
+      "rootId": "20240309172005-r26tnl6",
+      "scrollTop": 0,
+      "startId": "20240309172228-kr99bym"
+    },
+    "20240309172032-znnfofr": {
+      "endId": "20240309172032-v3j0k60",
+      "focusEnd": 0,
+      "focusId": "20240309172032-v3j0k60",
+      "focusStart": 0,
+      "rootId": "20240309172032-znnfofr",
+      "scrollTop": 0,
+      "startId": "20240309172032-v3j0k60"
+    },
+    "20240309172539-jy5zafu": {
+      "endId": "20240309174709-cbd3k09",
+      "focusEnd": 0,
+      "focusId": "20240309174655-qmaf8os",
+      "focusStart": 0,
+      "rootId": "20240309172539-jy5zafu",
+      "scrollTop": 400,
+      "startId": "20240309172611-0qicf74"
+    },
+    "20240309174459-qww6egt": {
+      "endId": "20240309174654-xo8ovyv",
+      "focusEnd": 4,
+      "focusId": "20240309174654-xo8ovyv",
+      "focusStart": 4,
+      "rootId": "20240309174459-qww6egt",
+      "scrollTop": 88,
+      "startId": "20240309174459-cqzoyot"
+    },
+    "20240309174735-hbvq52u": {
+      "endId": "20240309174735-jtgensk",
+      "focusEnd": 0,
+      "focusId": "20240309174735-jtgensk",
+      "focusStart": 0,
+      "rootId": "20240309174735-hbvq52u",
+      "scrollTop": 0,
+      "startId": "20240309174735-jtgensk"
+    },
+    "20240309174803-9ddwmzd": {
+      "endId": "20240309174853-wtot8mn",
+      "focusEnd": 4,
+      "focusId": "20240309174853-wtot8mn",
+      "focusStart": 4,
+      "rootId": "20240309174803-9ddwmzd",
+      "scrollTop": 0,
+      "startId": "20240309174826-ihbk5h3"
+    },
+    "20240309175005-fmzr9kq": {
+      "endId": "20240309184641-u4gms1b",
+      "focusEnd": 1,
+      "focusId": "20240309184614-sk8ivx3",
+      "focusStart": 1,
+      "rootId": "20240309175005-fmzr9kq",
+      "scrollTop": 0,
+      "startId": "20240309175005-tqr5yco"
+    },
+    "20240309175014-muxthxd": {
+      "endId": "20240309182556-bpa98d4",
+      "focusEnd": 0,
+      "focusId": "20240309182556-bpa98d4",
+      "focusStart": 0,
+      "rootId": "20240309175014-muxthxd",
+      "scrollTop": 0,
+      "startId": "20240309175014-vujq0nq"
+    },
+    "20240309175202-gxexd6h": {
+      "endId": "20240309175610-qcqiml4",
+      "focusEnd": 0,
+      "focusId": "20240309175610-qcqiml4",
+      "focusStart": 0,
+      "rootId": "20240309175202-gxexd6h",
+      "scrollTop": 0,
+      "startId": "20240309175202-xwyg7j6"
+    },
+    "20240309175612-ryggoh4": {
+      "endId": "20240309181109-t6aggld",
+      "focusEnd": 0,
+      "focusId": "20240309175704-d96s9ta",
+      "focusStart": 0,
+      "rootId": "20240309175612-ryggoh4",
+      "scrollTop": 0,
+      "startId": "20240309175704-d96s9ta"
+    },
+    "20240309175624-w4t42ki": {
+      "endId": "20240309182039-9up3lq8",
+      "focusEnd": 0,
+      "focusId": "20240309182039-9up3lq8",
+      "focusStart": 0,
+      "rootId": "20240309175624-w4t42ki",
+      "scrollTop": 0,
+      "startId": "20240309175624-npjq1o4"
+    },
+    "20240309182259-2myxcc7": {
+      "endId": "20240309182259-hxixgot",
+      "rootId": "20240309182259-2myxcc7",
+      "scrollTop": 0,
+      "startId": "20240309182259-hxixgot"
+    },
+    "20240309182308-7gyxxh3": {
+      "endId": "20240309182349-dp21lck",
+      "focusEnd": 0,
+      "focusId": "20240309182349-dp21lck",
+      "focusStart": 0,
+      "rootId": "20240309182308-7gyxxh3",
+      "scrollTop": 0,
+      "startId": "20240309182316-8667p91"
+    },
+    "20240309182734-btb6coc": {
+      "endId": "20240309182735-xj7z1v3",
+      "focusEnd": 0,
+      "focusId": "20240309182742-3u8o381",
+      "focusStart": 0,
+      "rootId": "20240309182734-btb6coc",
+      "scrollTop": 0,
+      "startId": "20240309182745-wrm3zuy"
+    },
+    "20240309182748-n7a999r": {
+      "endId": "20240309182758-6wfwu4n",
+      "focusEnd": 57,
+      "focusId": "20240309182758-6wfwu4n",
+      "focusStart": 57,
+      "rootId": "20240309182748-n7a999r",
+      "scrollTop": 0,
+      "startId": "20240309182758-6wfwu4n"
+    },
+    "20240309183739-7js0yid": {
+      "endId": "20240309220301-5vm866y",
+      "focusEnd": 126,
+      "focusId": "20240309220301-5vm866y",
+      "focusStart": 126,
+      "rootId": "20240309183739-7js0yid",
+      "scrollTop": 225,
+      "startId": "20240309183739-f8pfxvp"
+    },
+    "20240309184049-lt95600": {
+      "endId": "20240309184049-lbf30r9",
+      "focusEnd": 0,
+      "focusId": "20240309184049-lbf30r9",
+      "focusStart": 0,
+      "rootId": "20240309184049-lt95600",
+      "scrollTop": 0,
+      "startId": "20240309184049-lbf30r9"
+    },
+    "20240309184113-ettc64i": {
+      "endId": "20240309184113-60iscbj",
+      "focusEnd": 30,
+      "focusId": "20240309184113-60iscbj",
+      "focusStart": 30,
+      "rootId": "20240309184113-ettc64i",
+      "scrollTop": 0,
+      "startId": "20240309184113-60iscbj"
+    },
+    "20240309184438-ajxtqo0": {
+      "endId": "20240309184438-zbkewog",
+      "focusEnd": 0,
+      "focusId": "20240309184438-zbkewog",
+      "focusStart": 0,
+      "rootId": "20240309184438-ajxtqo0",
+      "scrollTop": 0,
+      "startId": "20240309184438-zbkewog"
+    },
+    "20240309220102-u4o3ibw": {
+      "endId": "20240309220102-pespk17",
+      "focusEnd": 0,
+      "focusId": "20240309220102-pespk17",
+      "focusStart": 0,
+      "rootId": "20240309220102-u4o3ibw",
+      "scrollTop": 0,
+      "startId": "20240309220111-k4xxdxg"
+    },
+    "20240309220349-9zmslr0": {
+      "endId": "20240309220356-1kgkypl",
+      "focusEnd": 0,
+      "focusId": "20240309220423-65adkdb",
+      "focusStart": 0,
+      "rootId": "20240309220349-9zmslr0",
+      "scrollTop": 0,
+      "startId": "20240309220423-65adkdb"
+    },
+    "20240309220405-dxmxfse": {
+      "endId": "20240309220440-rwtxk40",
+      "focusEnd": 0,
+      "focusId": "20240309220440-rwtxk40",
+      "focusStart": 0,
+      "rootId": "20240309220405-dxmxfse",
+      "scrollTop": 0,
+      "startId": "20240309220440-rwtxk40"
+    },
+    "20240309220500-r3e4xm5": {
+      "endId": "20240309220500-t2jhyzo",
+      "focusEnd": 0,
+      "focusId": "20240309220500-t2jhyzo",
+      "focusStart": 0,
+      "rootId": "20240309220500-r3e4xm5",
+      "scrollTop": 0,
+      "startId": "20240309220500-t2jhyzo"
+    },
+    "20240309220510-0zhhjwp": {
+      "endId": "20240309220721-ezgrqpe",
+      "focusEnd": 0,
+      "focusId": "20240309220721-ezgrqpe",
+      "focusStart": 0,
+      "rootId": "20240309220510-0zhhjwp",
+      "scrollTop": 120,
+      "startId": "20240309220510-1b49mxk"
+    },
+    "20240309220750-rhm3lma": {
+      "endId": "20240309221045-3zc41ss",
+      "focusEnd": 0,
+      "focusId": "20240309221045-3zc41ss",
+      "focusStart": 0,
+      "rootId": "20240309220750-rhm3lma",
+      "scrollTop": 0,
+      "startId": "20240309220804-w4z7ie2"
+    },
+    "20240309221046-zsbg4p7": {
+      "endId": "20240309221220-kfb3lc8",
+      "focusEnd": 0,
+      "focusId": "20240309221220-kfb3lc8",
+      "focusStart": 0,
+      "rootId": "20240309221046-zsbg4p7",
+      "scrollTop": 0,
+      "startId": "20240309221046-ysb0fjx"
+    },
+    "20240309221444-h7e4fx9": {
+      "endId": "20240309221444-vhq9rej",
+      "focusEnd": 0,
+      "focusId": "20240309221444-vhq9rej",
+      "focusStart": 0,
+      "rootId": "20240309221444-h7e4fx9",
+      "scrollTop": 0,
+      "startId": "20240309221444-vhq9rej"
+    },
+    "20240309221448-f7jzw9v": {
+      "endId": "20240309221951-pbm78ll",
+      "focusEnd": 0,
+      "focusId": "20240309221951-pbm78ll",
+      "focusStart": 0,
+      "rootId": "20240309221448-f7jzw9v",
+      "scrollTop": 0,
+      "startId": "20240309221523-qpqv0tb"
+    },
+    "20240309221908-z9qahp6": {
+      "endId": "20240309221908-i3fhure",
+      "focusEnd": 12,
+      "focusId": "20240309221908-i3fhure",
+      "focusStart": 12,
+      "rootId": "20240309221908-z9qahp6",
+      "scrollTop": 0,
+      "startId": "20240309221908-i3fhure"
+    },
+    "20240309222041-apd3kex": {
+      "endId": "20240309222041-vcwtqpc",
+      "focusEnd": 0,
+      "focusId": "20240309222041-vcwtqpc",
+      "focusStart": 0,
+      "rootId": "20240309222041-apd3kex",
+      "scrollTop": 0,
+      "startId": "20240309222041-vcwtqpc"
+    },
+    "20240309222057-3egmztk": {
+      "endId": "20240309222105-ifyl72d",
+      "focusEnd": 4,
+      "focusId": "20240309222105-ifyl72d",
+      "focusStart": 4,
+      "rootId": "20240309222057-3egmztk",
+      "scrollTop": 0,
+      "startId": "20240309222057-4ybai0z"
+    },
+    "20240309222202-4edf5do": {
+      "endId": "20240309222202-z5oeay4",
+      "focusEnd": 0,
+      "focusId": "20240309222202-z5oeay4",
+      "focusStart": 0,
+      "rootId": "20240309222202-4edf5do",
+      "scrollTop": 0,
+      "startId": "20240309222202-z5oeay4"
+    },
+    "20240309222223-pc4b76m": {
+      "endId": "20240309222258-ra075xq",
+      "focusEnd": 101,
+      "focusId": "20240309222223-uxelbws",
+      "focusStart": 101,
+      "rootId": "20240309222223-pc4b76m",
+      "scrollTop": 0,
+      "startId": "20240309222223-uxelbws"
+    },
+    "20240309222515-lc0lf38": {
+      "endId": "20240309222637-tg5qdnx",
+      "rootId": "20240309222515-lc0lf38",
+      "scrollTop": 0,
+      "startId": "20240309222515-r8092ya"
+    },
+    "20240310011010-b3d9hpl": {
+      "endId": "20240310011102-gsea0vp",
+      "focusEnd": 16,
+      "focusId": "20240310011102-30uqi9m",
+      "focusStart": 16,
+      "rootId": "20240310011010-b3d9hpl",
+      "scrollTop": 0,
+      "startId": "20240310011012-mzszhb9"
+    },
+    "20240310011451-z2t8i6z": {
+      "endId": "20240310011612-9dx7sws",
+      "focusEnd": 31,
+      "focusId": "20240310011534-z39x2w4",
+      "focusStart": 31,
+      "rootId": "20240310011451-z2t8i6z",
+      "scrollTop": 0,
+      "startId": "20240310011534-z39x2w4"
+    },
+    "20240310011542-dmj2n4c": {
+      "endId": "20240310011542-rwfxovu",
+      "focusEnd": 33,
+      "focusId": "20240310011542-rwfxovu",
+      "focusStart": 33,
+      "rootId": "20240310011542-dmj2n4c",
+      "scrollTop": 0,
+      "startId": "20240310011542-rwfxovu"
+    },
+    "20240310011740-cnscg8o": {
+      "endId": "20240310012010-ly8xri3",
+      "focusEnd": 0,
+      "focusId": "20240310012010-ly8xri3",
+      "focusStart": 0,
+      "rootId": "20240310011740-cnscg8o",
+      "scrollTop": 0,
+      "startId": "20240310011740-buzrw3y"
+    },
+    "20240310012052-dq77kvo": {
+      "endId": "20240310012118-trxm4l4",
+      "focusEnd": 0,
+      "focusId": "20240310012118-trxm4l4",
+      "focusStart": 0,
+      "rootId": "20240310012052-dq77kvo",
+      "scrollTop": 0,
+      "startId": "20240310012052-02jr3xu"
+    },
+    "20240310012210-h9ziant": {
+      "endId": "20240310012229-iumzjlv",
+      "focusEnd": 0,
+      "focusId": "20240310012229-iumzjlv",
+      "focusStart": 0,
+      "rootId": "20240310012210-h9ziant",
+      "scrollTop": 0,
+      "startId": "20240310012210-v2p6tol"
+    },
+    "20240310012459-nao7q0x": {
+      "endId": "20240310012514-gldn314",
+      "focusEnd": 0,
+      "focusId": "20240310012514-gldn314",
+      "focusStart": 0,
+      "rootId": "20240310012459-nao7q0x",
+      "scrollTop": 0,
+      "startId": "20240310012459-60anrm4"
+    },
+    "20240310012648-wduhjoc": {
+      "endId": "20240310012808-eyr6csy",
+      "focusEnd": 43,
+      "focusId": "20240310012803-fii7ibg",
+      "focusStart": 43,
+      "rootId": "20240310012648-wduhjoc",
+      "scrollTop": 0,
+      "startId": "20240310012648-gspmb5g"
+    },
+    "20240310012658-1c3v76p": {
+      "endId": "20240310013340-jgaymdk",
+      "focusEnd": 0,
+      "focusId": "20240310013340-r0a9lnb",
+      "focusStart": 0,
+      "rootId": "20240310012658-1c3v76p",
+      "scrollTop": 0,
+      "startId": "20240310012658-vyzrl1k"
+    },
+    "20240310012702-gdlsagy": {
+      "endId": "20240310012933-h03r6ev",
+      "focusEnd": 4,
+      "focusId": "20240310012941-2dnadxd",
+      "focusStart": 4,
+      "rootId": "20240310012702-gdlsagy",
+      "scrollTop": 0,
+      "startId": "20240310012702-epa0clz"
+    },
+    "20240310012705-e1javm9": {
+      "endId": "20240310013152-nmikgcy",
+      "focusEnd": 43,
+      "focusId": "20240310013152-nmikgcy",
+      "focusStart": 43,
+      "rootId": "20240310012705-e1javm9",
+      "scrollTop": 0,
+      "startId": "20240310012705-9aramee"
+    },
+    "20240310013414-qhq764s": {
+      "endId": "20240310014326-dgp940p",
+      "focusEnd": 27,
+      "focusId": "20240310013540-iwxbga2",
+      "focusStart": 27,
+      "rootId": "20240310013414-qhq764s",
+      "scrollTop": 528,
+      "startId": "20240310013427-9jlgx7g"
+    },
+    "20240310014343-nwovoef": {
+      "endId": "20240310014350-uijxmz0",
+      "focusEnd": 28,
+      "focusId": "20240310014350-qwhmuum",
+      "focusStart": 28,
+      "rootId": "20240310014343-nwovoef",
+      "scrollTop": 0,
+      "startId": "20240310014350-tua6y6j"
+    },
+    "20240310014417-r33vrm1": {
+      "endId": "20240310014426-wr9btyz",
+      "focusEnd": 13,
+      "focusId": "20240310014426-puz241g",
+      "focusStart": 13,
+      "rootId": "20240310014417-r33vrm1",
+      "scrollTop": 1,
+      "startId": "20240310014426-k9575xc"
+    },
+    "20240310014441-xbrqlmv": {
+      "endId": "20240310014453-z04erol",
+      "focusEnd": 72,
+      "focusId": "20240310014453-z04erol",
+      "focusStart": 72,
+      "rootId": "20240310014441-xbrqlmv",
+      "scrollTop": 0,
+      "startId": "20240310014507-xze8vdy"
+    },
+    "20240310014534-4c3ym9t": {
+      "endId": "20240310014653-khgcive",
+      "focusEnd": 48,
+      "focusId": "20240310014609-cxmmulz",
+      "focusStart": 48,
+      "rootId": "20240310014534-4c3ym9t",
+      "scrollTop": 0,
+      "startId": "20240310014536-omz5wpi"
     }
   },
   "local-searchkeys": {
     "col": "",
     "colTab": "",
     "keys": [
+      "for",
       "#​注释#",
       "#​以上代码#"
     ],

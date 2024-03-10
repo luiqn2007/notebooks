@@ -1,7 +1,7 @@
 {
   "logLevel": "debug",
   "appearance": {
-    "mode": 0,
+    "mode": 1,
     "modeOS": true,
     "darkThemes": [
       "midnight"
@@ -78,7 +78,8 @@
     "historyRetentionDays": 30,
     "emoji": [
       "2328-fe0f",
-      "1f9b4"
+      "1f9b4",
+      "1f578-fe0f"
     ],
     "virtualBlockRef": false,
     "virtualBlockRefExclude": "",
@@ -136,10 +137,10 @@
         "super": false
       },
       "d3": {
-        "nodeSize": 15,
+        "nodeSize": 16,
         "linkWidth": 8,
         "lineOpacity": 0.36,
-        "centerStrength": 0.01,
+        "centerStrength": 0.015,
         "collideRadius": 600,
         "collideStrength": 0.08,
         "linkDistance": 400,
@@ -213,7 +214,7 @@
               ],
               "direction": "tb",
               "instance": "Layout",
-              "size": "227px",
+              "size": "272px",
               "type": "left"
             },
             {
@@ -221,19 +222,117 @@
                 {
                   "children": [
                     {
-                      "active": true,
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20240309013552-lc1fl80",
+                        "blockId": "20240310014814-s4pj606",
                         "instance": "Editor",
                         "mode": "wysiwyg",
                         "notebookId": "20240309023106-0qy9xxz",
-                        "rootId": "20240309013552-lc1fl80"
+                        "rootId": "20240310014814-s4pj606"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "switch"
+                    },
+                    {
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20240310111006-lqvbhv1",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20240309023106-0qy9xxz",
+                        "rootId": "20240310111006-lqvbhv1"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "for"
+                    },
+                    {
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20240310111510-u74mt23",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20240309023106-0qy9xxz",
+                        "rootId": "20240310111510-u74mt23"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "while"
+                    },
+                    {
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20240310112146-t3nx4dw",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20240310112143-uwpyk38",
+                        "rootId": "20240310112146-t3nx4dw"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "Linux"
+                    },
+                    {
+                      "active": true,
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20240310112151-x6zq8an",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20240310112143-uwpyk38",
+                        "rootId": "20240310112151-x6zq8an"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "Untitled"
+                    },
+                    {
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20240310111300-bkhlo1x",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20240309023106-0qy9xxz",
+                        "rootId": "20240310111300-bkhlo1x"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "普通 for"
+                    },
+                    {
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20240310111309-4rgmya4",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20240309023106-0qy9xxz",
+                        "rootId": "20240310111309-4rgmya4"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "范围 for"
+                    },
+                    {
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20240309023008-1temlmj",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20240309023106-0qy9xxz",
+                        "rootId": "20240309023008-1temlmj"
                       },
                       "docIcon": "2328-fe0f",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "Hello World"
+                      "title": "变量"
                     }
                   ],
                   "height": "",
@@ -241,7 +340,7 @@
                   "width": ""
                 }
               ],
-              "direction": "lr",
+              "direction": "tb",
               "instance": "Layout",
               "resize": "lr",
               "size": "auto",
@@ -304,7 +403,7 @@
             "show": true,
             "size": {
               "height": 0,
-              "width": 227
+              "width": 272
             },
             "title": "文档树",
             "type": "file"
@@ -445,7 +544,7 @@
       "pin": true
     }
   },
-  "userData": "d716d5d6812229ac440f08261821941a610ff08716a234b3c5049f9565dbf52c3a9b4e2606e453ce7b683179efdfbb8fb1d50db8828c0cd7f36587a2755eaa3ab303c826f74ca1d26a2c71d67e524897e79e88ea091fb3b78cdf66096cdfa0515f062b4a7e8322ad4f159f69904e21aee62bd2ffa09dec31df88d1c56a9d4ff73c200914b90b41bbcf342735231c8971989919c8a3dc5e994de589bc0878d093be666bd40b809ad40e811c8788a9c358f8067230ad1913ada22ef63e34fcbb8b983170731d63a9adc75c461c6a2b81308835e9d4475815d0e3ddc71462410f9731be78efd59ccf2dffdd9e3d1b288f85822795ea7b583d7304da93467ed354587523410e07cc8fd63b01d8f76f9d23c4efb08097b5b257408a38de9654a33f114d05a75e80c730fb97127f62799888759821ffc1f122c8141c36a5de53f538983c3d1ff4f472d403d37d3bda59500760c2641aafb611b6ca7f5f11d278f05613c74ccbd184c19b6ae0d9112822d496f517789a82a4d1ff8a1a2636e5dd014b52822e11ff0d6e15c336c3bb7eb8eb2ebbcc061a3b30c9d94651c812bfead9d638d77a3c043a669bd9f2b07101dc3ef010ab90911ca4895e677345d426e4cb14e439d18cceb58e54190e8a6f860a565c7dca3fb66253a117b43f13a4a37b9e8c09eb24acbfa3f5cd3d8aedc8f715653bed78febccec5532f9348b299d3fa14432873447b4a99e6cb40164f71c34519a1637d4c02f19c15aeb648341174536fd1bc10410f88a186738cd08453c7cf8b9dd367796664d101bdcf07a3fecacfc31b0762db206e1fe9585149b37cfa11565216be70b6bcde86f41d28cda44f196fa29c5020764b134b0fe29fc612526ac1ca3ff6e1843d458bcbea8111a3d8ef6ee66fafe097a24e0148f8bb8256b3920bf6332e120faa9c0a76b754d676d31c8ff039c3b87b23563d3beeb03c236e927ea761d59ce12c4d064eb44d07ca257dd3c384c19475c74b656bc575cbd440d15f9e9c15e9dcdf8b92acb272ae6046bbb79912d0a258c62f2e3b8f1111558fe1497e67bb195744d7ff1223aefc7302069144a83159200d3f2576924e1743a170c8fb6c69411750d991b30d0e8fdbfc757c1d978a8c861bab79e7ce202cd726ed3a59c212743a4b14879b473c6d8f95518347db49549042986446d98d16c52cd7f78f90ce94d0237af61649d9d364d83ec0d2737bebcf2903cf317bb49b8f24443b553e558d5db9b5ad0ca65742ce5fdb8257aab8d8158f058f64e25c3fc9f5144e9e8f4e23099d946e49c895e41e352c320ad2328c8c9cf4652ff52dd62d4f8d49f1d94a8049a0c6513f7173b5e0d368ae67ffaca0b6bcf20fbe52baf68585672875e89910e734fbe7c04eb5bbe838fe2b9fe68f7f1c654fb1675a6d0361104577e675588c24e59ffd51dc16962cfeaeb5b071d0c059905020783f6c4732e55059f977b17dd68b3c8007e101108087a7f53d6eb79111cb193aaef57f9e0a36ba4955020fadb29cd6bf0d44d1c8afadfca76fd7163bdb8d8e47a0cc67e2f10128edbbd369c8e1a56b439db7526b96afd5d37c4b05fa4913575a44ca99757910ba4a9e3db77a06df79585c20c7cad8d43d5c71f97d06db60a333eb8624353d47e99bc37fc73effd7d466bf7883961f1f99a95d354b6fa4186d90064e6cdcaf9fe662e6c4fd001568581071b7bfb80d1dc49ca6912094f36a9d3fa923d34603064d7fe46cd7c2717dbde4dfed0decf3f248cfde267628eea14c237a74e98a40bc752609dbb8b5e998af3ede75f1f57e89b0a41f32e14536d5e820850f9c641142b9dfd00247a0996595ea30503784f6516dd1193c2d97c75914459e86dac70301eeea1ef4c08bac9383f1b1b9ad842ab524ee9405da5f91829438ff496ea0b45817f148723240bbd4b4e57b8c185ea54cba9c006615a89965d2efe31540945b790c08994facdc0b015eed47868f8479fc75a25d7c02d8a0d870eeeebd8e4f45d9ed6191563d03c101cee553fdbb11cf87851d38c0849de345a09b02d04253b920f1406de96666b6f704fa2d0288d8b0182c34a1ff81f0f0dfdda11f631c4b35e2c7653d0fb733d869ecf29d184b6b62d0853fdfcd133fb350a12fa7ab7a90e3580e4fba31909f8acb518249a32808715adbe5d8c0dc11e13fce3ca6af8bcc6d9b12d6da8978cf1db9bf58b4e9bbf56344b42d617313d2a9e7bbd7ea010ed15ec2c98c03b39d9a60bdda42731e1232685ce05bb00d75f2caadb2ddf90bc48508e79fd236d8ec8d1a377b71e0ec1beceb10f7da4d31373812feba599b4ded43cf474935bd1c0c5ab607334504e86508feb4febceacb3927f70c394d433f7f3131b775c0ae7a54dd78f4869e457136b9f2488543ecefef693313ac4ed8f0d24a925ff6990daa4cf7ade4326dc3931a256f4f28793cfd8c0dce8ea175cbac4b3947e8f2d81ad1979c730c556563c90a28b7abb59b791a00bf23da3bfd110dbd9bb964a66ad1ccf494680044d249c5df99575d0a0827308c28108c8d0c85e89ea600070bf1bdad4c2174f3155f93e78a37731b31936559ff3fbc88b37e15559f9e2c82a2ea481b843b18bdf41e61418efa8aa4d4ff03ceb8466d5b4733e9f2c604e39c3f6d8dd43b65848e255286a903bddfc7ac3f722f88dab726e089eaf2cc040f5420e6764d657ad72ea81cfdb93d79e1435e7137c2aac3162be60abea019853feb134ee479d77bf6b656deed6bf0e266e8c0e1f740b3de1bc47c2f0db9bec1fa0fd585fb796897077c7972e8fcb8b3e1e9285c2253e6d909918f23702371aeb50125a7a72abe400117fda120e621b3626049f02424450b799869294ba20aad77bc4b1c2b1681644aaa7acae26b371e883b30524b8686390ce8fd670281763cb7b23f03d5c0639dc2acb1d05162e0abf7bc55f154961bfd30428b224a3d1e863ea4a3a1e587fc388861b05d11b355644dfe5fb3d6618395d48d3074ae58f2be27a9482e74d8c39487f2f06aff526ccbe9980e5c1275fce7cd041423e785f8dc09f5062baa93853dd60c577c87e5542144d54bdebf3843ed8cb89767b99cee984e954be34922b6711a0d63a896e73b8f28ef829d60ce493f6454b8d6950535ad2dea46e55ae07cfee4d9633f73dd63d7f29a221ce1094e0161351da60a7fc8a673f5e51c58825f4289be000e6c37e30d04eb3dc3d7897e9d4c685632cebd11399ccd1c74719b18420b44d53eb68f2a531b507a05ba811bc89f0b5b306d83c2fb0c447f6de50d60c1a8c81261f7201f4c0381cf660d24",
+  "userData": "d716d5d6812229ac440f08261821941a610ff08716a234b3c5049f9565dbf52c3a9b4e2606e453ce7b683179efdfbb8fb1d50db8828c0cd7f36587a2755eaa3ab303c826f74ca1d26a2c71d67e524897e79e88ea091fb3b78cdf66096cdfa0515f062b4a7e8322ad4f159f69904e21aee62bd2ffa09dec31df88d1c56a9d4ff73c200914b90b41bbcf342735231c8971989919c8a3dc5e994de589bc0878d093be666bd40b809ad40e811c8788a9c358f8067230ad1913ada22ef63e34fcbb8b983170731d63a9adc75c461c6a2b81308835e9d4475815d0e3ddc71462410f9731be78efd59ccf2dffdd9e3d1b288f85822795ea7b583d7304da93467ed354587523410e07cc8fd63b01d8f76f9d23c4efb08097b5b257408a38de9654a33f114d05a75e80c730fb97127f62799888759821ffc1f122c8141c36a5de53f538983c3d1ff4f472d403d37d3bda59500760c2641aafb611b6ca7f5f11d278f05613c74ccbd184c19b6ae0d9112822d496f517789a82a4d1ff8a1a2636e5dd014b52822e11ff0d6e15c336c3bb7eb8eb2ebbcc061a3b30c9d94651c812bfead9d638d77a3c043a669bd9f2b07101dc3ef010ab90911ca4895e677345d426e4cb14e439d18cceb58e54190e8a6f860a565c7dca3fb66253a117b43f13a4a37b9e8c09eb24acbfa3f5cd3d8aedc8f715653bed78febccec5532f9348b299d3fa14432873447b4a99e6cb40164f71c34519a1637d4c02f19c15aeb648341174536fd1bc10410f88a186738cd08453c7cf8b9dd367796664d101bdcf07a3fecacfc31b0762db206e1fe9585149b37cfa11565216be70b6bcde86f41d28cda44f196fa29c5020764b134b0fe29fc612526ac1ca3ff6e1843d458bcbea8111a3d8ef6ee66fafe097a24e0148f8bb8256b3920bf6332e120faa9c0a76b754d676d31c8ff039c3b87b23563d3beeb03c236e927ea761d59ce12c4d064eb44d07ca257dd3c384c19475c74b656bc575cbd440d15f9e9c15e9dcdf8b92acb272ae6046bbb79912d0a258c62f2e3b8f1111558fe1497e67bb195744d7ff1223aefc7302069144a83159200d3f2576924e1743a170c8fb6c69411750d991b30d0e8fdbfc757c1d978a8c861bab79e7ce202cd726ed3a59c212743a4b14879b473c6d8f95518347db49549042986446d98d16c52cd7f78f90ce94d0237af61649d9d364d83ec0d2737bebcf2903cf317bb49b8f24443b553e558d5db9b5ad0ca65742ce5fdb8257aab8d8158f058f64e25c3fc9f5144e9e8f4e23099d946e49c895e41e352c320ad2328c8c9cf4652ff52dd62d4f8d49f1d94a8049a0c6513f7173b5e0d368ae67ffaca0b6bcf20fbe52baf68585672875e89910e734fbe7c04eb5bbe838fe2b9fe68f7f1c654fb1675a6d0361104577e675588c24e59ffd51dc16962cfeaeb5b071d0c059905020783f6c4732e55059f977b17dd68b3c8007e101108087a7f53d6eb79111cb193aaef57f9e0a36ba4955020fadb29cd6bf0d44d1c8afadfca76fd7b85ed094945b0b0a5491608c003770ccd6ced938dc9b83d5c3fcee4245529b717fcec67a0260196dec9a4efbb09beb39361ee83f516d24c6bbc42505f2b6c64f5d16b0a3e5bfc88373a587490c6f1d6ff7b3ea9a18f53baf4e396a0c5b136985eb8e3de8c56fb5296149bac676ff88322aefc8898a64ca2e5d90a3a94e57bb01e220e230406b63f0cb9b81837a3e18faba6338ff365ce951bb7eb1b7219872da6f5d19d1fb50fb150cdaaa4a5fec630a3259c5e2c4ed8ece7b5eca75cd47da944d7a0d7f318fa817df7c55be6d15bd00ddca99b1e136b991b3a100d8eeef65f553461a2d652f3cea82b42c54996c0a1a829df4a0c7ed811564d888dc5c8320e4074db78711af527bf75213a25ef53537dbecbc3e0ecd019ffe96beb4ff72a53d80a81988a89ccb5115c4a9d05aea908b9c6d4cb6a796fbf215431e7dc1a687ffa7fe638a8e07f6e8dc7fff0aa1587710f235e6b50dc305374790602a3864d3c171b844d47418c030651a6220f499e52f3bbbf8b699775e7044111456ea9c6129ba3d454e6fb0e89efd691b0f5fdfd413c636d7ed5bed2370fd61abac1c2ebe0d0393564497d9513efcd9e0793fffa5d2c5bca5aeee507712e68221db092e338933e58135804315222a6daebf1402827f89c24d50e403e1764f17454087afb5ce1b06f22762af3b5639a482766dc67402a1a00298c6f46b65d681058013f78d79d0d50995a5c51ad166b5fd7975d0b74fef6ed0ade357a129f3002c4ea5bc2cc6ebcb33775070ace80497eeb7bf399c620fbd8b7f2e7fe39f5f2255b1103c2bbd1d76787a76fd0de417c074f0346cd6e8fe53a0a409295d243ee9631c9c6d72324370ff1d4ceab31046b8ea9fbaed976381d437edbd867cf3fc203b372f087ad9a123dbf45a1bb2920ece2c13725844ce0b72229d7e9233487b011231db6897625a2f9a0129c7cf2188796be4def47d9b575585fa64d7dda1119959fe70b41d194ea3cb9ef0939d34b328e19b347588346ac684501b8f23c7a9f842b78692b30f25f3e898f0a64aa54086571c21420a284fae778cfb10a8d37ea1c54ca52ed2febc5c2ad2f749747f59bee242f57a1188f453fb82318b7d532fde679a92760e1ccd265f1f62b88bb0a5bb6b79c3795acdc681d3b15787eb1e459b07fa4d8c86838631efd9cbc1bc33975a0f54cf2fe1bc349538cb284e1a64f291d0a4a7ed48e958b8390f5afd9fde10d5701854f2365384ed33bfae40b5bf4d6e7a955ee387ad0a475562bf5625cd55c228c5f7f629c5eb5adf701f50bd2ad6d5b776187671dc76fb2228b85c8426f7a5aa9fa39deac4d90df6d4b1c688458bfb1a9391fb649c693db190a4cbddfab0646c613fb1d4da8324155f0daaf920dae79e66b968d2a2168d437a367fe249b669f1a092f9640583ffc9f97bf9d1116a22c2c67e85422d51deb41fa2c007743446af0d1dc73f7e555c4d3daf33aa9559c330517b73a4919560c957a5b3776944de25a332dbd035e4d2f7f2cf1edb9024278152f9ab6618d516c69d3a8030ce4ffd7200c9cb6b34592c8dc6ddc4738d304364561880aa673fc47d18c648513fafb05183899f13336de7654ebb9009300304e1e1758d71b4f30da97805004e9788022ca6daee5da401ea41b3cad180176d4f822f9200b3d3110977281384e47bb0ecad59ac9febb4e78d9f24ef7f54fca2236d96904fc58fa8cb4a3270a694bf47fc5e4afd161c47d05e27c3c106b427ec53776f996bd4ee",
   "account": {
     "displayTitle": true,
     "displayVIP": true
@@ -826,7 +925,7 @@
           "default": "⇧⌘L"
         },
         "insertColumnRight": {
-          "custom": "⇧⌘R",
+          "custom": "⇧⌘+",
           "default": "⇧⌘R"
         },
         "insertRowAbove": {
@@ -834,7 +933,7 @@
           "default": "⇧⌘T"
         },
         "insertRowBelow": {
-          "custom": "⇧⌘D",
+          "custom": "⌘+",
           "default": "⇧⌘D"
         },
         "moveToDown": {
@@ -1076,6 +1175,14 @@
         "custom": "⌥M",
         "default": "⌥M"
       }
+    },
+    "plugin": {
+      "siyuan-plugin-devtool": {
+        "reload": {
+          "custom": "⇧⌘R",
+          "default": "⇧⌘R"
+        }
+      }
     }
   },
   "sync": {
@@ -1167,13 +1274,13 @@
     "petalDisabled": false
   },
   "stat": {
-    "treeCount": 11,
+    "treeCount": 78,
     "cTreeCount": 100,
-    "blockCount": 160,
+    "blockCount": 559,
     "cBlockCount": 5000,
-    "dataSize": 78794950,
+    "dataSize": 80956219,
     "cDataSize": 104857600,
-    "assetsSize": 5818863,
+    "assetsSize": 7624737,
     "cAssetsSize": 104857600
   },
   "api": {
