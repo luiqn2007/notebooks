@@ -1,14 +1,5 @@
 [
 	{
-		"name": "graph-enhance",
-		"displayName": "关系图增强",
-		"enabled": true,
-		"incompatible": false,
-		"js": "",
-		"css": "",
-		"i18n": null
-	},
-	{
 		"name": "SiYuan-Attribute-Panel",
 		"displayName": "文档属性面板",
 		"enabled": true,
@@ -83,6 +74,15 @@
 	{
 		"name": "siyuan-plugin-code-block",
 		"displayName": "代码块美化",
+		"enabled": true,
+		"incompatible": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "siyuan-plugins-index",
+		"displayName": "目录插件",
 		"enabled": true,
 		"incompatible": false,
 		"js": "",
