@@ -88,5 +88,23 @@
 		"js": "",
 		"css": "",
 		"i18n": null
+	},
+	{
+		"name": "siyuan-plugin-openmoji-emoji",
+		"displayName": "表情包: OpenMoji",
+		"enabled": true,
+		"incompatible": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "link-icon",
+		"displayName": "链接图标",
+		"enabled": true,
+		"incompatible": false,
+		"js": "",
+		"css": "",
+		"i18n": null
 	}
 ]
